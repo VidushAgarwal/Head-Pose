@@ -30,7 +30,7 @@ model_points = np.array([
 
 
 # Camera internals
-
+#abc
 focal_length = size[1]
 center = (size[1]/2, size[0]/2)
 camera_matrix = np.array(
